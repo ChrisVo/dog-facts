@@ -4,7 +4,7 @@ I wrote this to practice my knowledge with go.
 
 ## prereqs
 
-- Go compiler installed
+- [Go installed on your machine so that you can build the code](https://go.dev/doc/install)
 
 ## to run
 
