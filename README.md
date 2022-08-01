@@ -5,7 +5,7 @@ I wrote this to practice my knowledge with go.
 Example of facts returned
 
 ```
-➜  dog-facts ./dog-facts
+➜  ./dog-facts
 
            / \__
           (    @\___
